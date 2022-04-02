@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e7362bf-1156-4e9a-8f8e-35842079f590" name="Changes" comment="">
+    <list default="true" id="3e7362bf-1156-4e9a-8f8e-35842079f590" name="Changes" comment="second comit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,8 +93,16 @@
       <workItem from="1648552870640" duration="1480000" />
       <workItem from="1648554780333" duration="3762000" />
       <workItem from="1648560227370" duration="614000" />
-      <workItem from="1648563602943" duration="7062000" />
+      <workItem from="1648563602943" duration="8266000" />
     </task>
+    <task id="LOCAL-00001" summary="second comit">
+      <created>1648572950162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648572950162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +148,10 @@
         <entry key="269336f5-66df-4353-974b-67ee50c1fd57" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second comit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
