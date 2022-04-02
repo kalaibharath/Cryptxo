@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e7362bf-1156-4e9a-8f8e-35842079f590" name="Changes" comment="second commit" />
+    <list default="true" id="3e7362bf-1156-4e9a-8f8e-35842079f590" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/docs/deploy.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +98,7 @@
       <workItem from="1648884860256" duration="553000" />
       <workItem from="1648898127404" duration="701000" />
       <workItem from="1648902518325" duration="5402000" />
-      <workItem from="1648910506955" duration="1612000" />
+      <workItem from="1648910506955" duration="2488000" />
     </task>
     <task id="LOCAL-00001" summary="second comit">
       <created>1648572950162</created>
@@ -154,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648912173673</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="second commit">
+      <created>1648912503802</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1648912503802</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
